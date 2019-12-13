@@ -12,7 +12,7 @@ Permissions and Roles for personal sites follow the behavior shown below:
 
 ## Personal Site Properties
 
-There are several portal properties you can add to `portal-ext.properties` to customize the default pages of personal sites. You can customize the names of the pages, the applications that appear on the pages, the themes and layout templates of pages, and more. Please refer to the [Default User Public Layouts](https://docs.liferay.com/portal/7.2-latest/propertiesdoc/portal.properties.html#Default%20User%20Public%20Layouts) and [Default User Private Layouts](https://docs.liferay.com/portal/7.2-latest/propertiesdoc/portal.properties.html#Default%20User%20Private%20Layouts) sections of the `portal.properties` file for details. Some of these properties are listed in the table below:
+There are several portal properties you can add to [`portal-ext.properties`](../../installation-and-upgrades/14-reference/03-portal-properties.md) to customize the default pages of personal sites. You can customize the names of the pages, the applications that appear on the pages, the themes and layout templates of pages, and more. Please refer to the [Default User Public Layouts](https://docs.liferay.com/dxp/portal/7.2-latest/propertiesdoc/portal.properties.html#Default%20User%20Public%20Layouts) and [Default User Private Layouts](https://docs.liferay.com/dxp/portal/7.2-latest/propertiesdoc/portal.properties.html#Default%20User%20Private%20Layouts) sections of the `portal.properties` file for details. Some of these properties are listed in the table below:
 
 | Description | Property |
 | --- | --- |
