@@ -6,7 +6,7 @@ Follow these steps to create a Display Page Template:
 
 1. Click the *Display Page Templates* tab.
 
-1. Click the *Add* button (![Add](../../images/icon-add.png)).
+1. Click the *Add* button (![Add](../../../../images/icon-add.png)).
 
 1. Give your Display Page Template a name and select a content type (Web Content articles, blogs, and documents are supported) and a Subtype if applicable, and click *Save*.
 
@@ -18,10 +18,10 @@ Follow these steps to create a Display Page Template:
 
   ![The content structure is mapped to the Page Fragments of the Display Page Template.](./creating-a-display-page-template/images/03.png)
 
-1. Click on an editable field (text area for example) and click the *Map* button (![Map](../../images/icon-map.png)) in the dialog that appears. You can map editable fields to a piece of content. You can also base it on a specific Web Content Structure.
+1. Click on an editable field (text area for example) and click the *Map* button (![Map](../../../../images/icon-map.png)) in the dialog that appears. You can map editable fields to a piece of content. You can also base it on a specific Web Content Structure.
 
   ```note::
-     You can map any data or metadata from a Web Content Article or Structure to a Display Page Template. For the Basic Web Content type, this includes structure-defined fields like Summary, Title, and Content, as well as metadata fields like Publish Date, Categories, and Tags. In a user-defined structure, all user selected fields appear here as well. Custom fields are also available for display if they apply to the content type selected.
+    You can map any data or metadata from a Web Content Article or Structure to a Display Page Template. For the Basic Web Content type, this includes structure-defined fields like Summary, Title, and Content, as well as metadata fields like Publish Date, Categories, and Tags. In a user-defined structure, all user selected fields appear here as well. Custom fields are also available for display if they apply to the content type selected.
   ```
 
 1. Select a field from the content type to map the editable Page Fragment to. The mapped field highlights purple to indicate that it's mapped.

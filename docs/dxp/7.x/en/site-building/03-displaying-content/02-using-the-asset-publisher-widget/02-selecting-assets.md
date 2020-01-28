@@ -8,7 +8,7 @@ By default, the Asset Publisher selects assets dynamically, according to a set o
 
 To enable dynamic asset selection, follow these steps:
 
-1. Hover over the Asset Publisher and click the Options icon (![Options](../../images/icon-app-options.png)) in the widget's menu and select *Configuration*.
+1. Hover over the Asset Publisher and click the Options icon (![Options](../../../../images/icon-app-options.png)) in the widget's menu and select *Configuration*.
 
 1. In the Asset Publisher configuration, click the *Dynamic* radio button beneath *Asset Selection* if it's not already selected.
 
@@ -39,11 +39,11 @@ To enable dynamic asset selection, follow these steps:
 1. click *Save* to apply the dynamic configuration.
 
 ```note::
-   These actions are applied immediately to the Asset Publisher and don't require saving:
-   
-   * Changing the value of the *Asset Selection* option
-   * Changing the value of the *Scope* option
-   * Selecting, adding, sorting or deleting asset entries (only when selecting assets manually)
+  These actions are applied immediately to the Asset Publisher and don't require saving:
+
+  * Changing the value of the *Asset Selection* option
+  * Changing the value of the *Scope* option
+  * Selecting, adding, sorting or deleting asset entries (only when selecting assets manually)
 ```
 
 ## Selecting Assets Manually
@@ -84,7 +84,7 @@ Manual selection gives you a great deal of control over what assets are displaye
 
 Since Liferay Portal 7.2 and Liferay DXP 7.2, you can select Content Sets: predefined lists of content to display in the Asset Publisher. To use a Content Set, follow these steps:
 
-1. Hover over the widget and click the *Options* icon (![Options](../../../images/icon-app-options.png)) in the widget's menu and select *Configuration*.
+1. Hover over the widget and click the *Options* icon (![Options](../../../../images/icon-app-options.png)) in the widget's menu and select *Configuration*.
 
 1. In the Asset Publisher configuration, select *Content Set* or *Content Set Provider* beneath *Asset Selection*.
 

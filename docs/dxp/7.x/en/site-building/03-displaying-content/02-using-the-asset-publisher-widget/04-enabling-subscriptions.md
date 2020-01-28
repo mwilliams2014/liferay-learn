@@ -5,16 +5,16 @@ The Asset Publisher application supports two kinds of subscriptions: RSS feed su
 ## RSS Feed Subscriptions
 
 ```note::
-   RSS feeds are deprecated for Liferay Portal 7.2+ and are disabled by default. To leverage RSS feeds, you must enable this feature.
-   
-   1. Open the Product Menu and go to *Control Panel* &rarr; *Configuration* &rarr; *System Settings*.
-   2. Select *Web Content* under the *Content and Data* heading.
-   3. Under the *System Scope* &rarr; *Administration* tab, check the *Show Feeds* box. For more information on deprecated apps, see [this article](TODO).
+  RSS feeds are deprecated for Liferay Portal 7.2+ and are disabled by default. To leverage RSS feeds, you must enable this feature.
+
+  1. Open the Product Menu and go to *Control Panel* &rarr; *Configuration* &rarr; *System Settings*.
+  2. Select *Web Content* under the *Content and Data* heading.
+  3. Under the *System Scope* &rarr; *Administration* tab, check the *Show Feeds* box. For more information on deprecated apps, see [this article](TODO).
 ```
 
 To enable RSS feed subscriptions for the Asset Publisher, follow these steps:
 
-1. Hover over the Asset Publisher and click the Options icon (![Options](../../../images/icon-app-options.png)) in the widget's menu and select *Configuration*.
+1. Hover over the Asset Publisher and click the Options icon (![Options](../../../../images/icon-app-options.png)) in the widget's menu and select *Configuration*.
 
 1. Toggle the *Enable RSS Subscription* selector to Yes.
 
@@ -30,7 +30,7 @@ Enabling RSS Subscription adds a RSS link to the Asset Publisher. Users wishing 
 
 Users can subscribe to the Asset Publisher to receive email notifications when new assets are published. You must enable this notification first. Follow these steps:
 
-1. Hover over the Asset Publisher and click the Options icon (![Options](../../../images/icon-app-options.png)) in the widget's menu and select *Configuration*.
+1. Hover over the Asset Publisher and click the Options icon (![Options](../../../../images/icon-app-options.png)) in the widget's menu and select *Configuration*.
 
 1. Toggle the *Enable Email Subscription* selector to Yes.
 

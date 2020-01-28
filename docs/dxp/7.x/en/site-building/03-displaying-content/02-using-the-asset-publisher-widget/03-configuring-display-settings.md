@@ -2,7 +2,7 @@
 
 Once you've [selected your assets](./02-selecting-assets.md) for the Asset Publisher, you can configure several display settings to specify how users view your content. Follow these steps:
 
-1. Hover over the Asset Publisher and click the Options icon (![Options](../../../images/icon-app-options.png)) in the widget's menu and select *Configuration*.
+1. Hover over the Asset Publisher and click the Options icon (![Options](../../../../images/icon-app-options.png)) in the widget's menu and select *Configuration*.
 
 1. With the *Setup* tab selected, click on the *Display Settings* tab.
 
