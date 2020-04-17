@@ -28,6 +28,7 @@ To begin building a Content Page:
     * [Editing a Hyperlink](#editing-a-hyperlink)
     * [Editing an Image](#editing-an-image)
     * [Copying a Fragment](#copying-a-fragment)
+    * [Saving a Fragment Composition](#saving-a-fragment-composition)
     * [Adjusting Spacing](#adjusting-spacing)
     * [General Configuration](#general-configuration)
     * [Mapping Content](#mapping-content)
@@ -131,6 +132,33 @@ You can duplicate a Fragment on the page to save time. Follow these steps:
 
 ![You can duplicate Fragments on the page.](./building-content-pages/images/10.png)
 
+### Saving a Fragment Composition
+
+Since Liferay Portal CE 7.3 GA3 and Liferay DXP 7.3+, you can save customized Fragment compositions (Section or Row layout Fragments) as a new Fragment, so you can reuse it in your other Fragment-based pages. Follow these steps:
+
+1. Click the Row or Section composition to save.
+1. Click the (![Download icon](../../../images/icon-download.png)) in the context menu that appears.
+
+  ![Click the Row or Section to bring up the Save Fragment composition button.](./building-content-pages/images/11.png)
+
+1. In the "Save as Fragment" dialog that appears, provide a name, optional description and thumbnail, disable/enable options for including inline content (fragment entries (links, images, text, etc.) that have been edited) and [mapped content](#mapping-content), and select a Collection to save the Fragment to.
+
+  ![Provide the information for the Fragment composition in the dialog that appears.](./building-content-pages/images/12.png)
+
+```note::
+   If no Site-specific Collection exist, the saved Fragment composition is automatically saved to a new Collection called "Saved Fragments".
+```
+
+The saved Fragment composition is available to use immediately in the Fragments sidebar and through the Page Fragments administrative application.
+
+![The saved Fragment composition is available to use immediately.](./building-content-pages/images/13.png)
+
+Compositions can be exported/imported between sites just as any other Fragment.
+
+```note::
+  The latest version of the `Liferay Fragments Toolkit <../developer-guide/developing-fragments/developing-page-fragments/developing-page-fragments-with-the-fragments-toolkit.md>`_ supports creation, export/import, and preview of Fragment compositions.
+```
+
 ### Adjusting Spacing
 
 If a [Layout](./content-pages-overview.md#layouts) has multiple columns, you can adjust the spacing between the columns to create a custom layout. Follow these steps:
@@ -138,7 +166,7 @@ If a [Layout](./content-pages-overview.md#layouts) has multiple columns, you can
 1. Click on the Layout to select it. A blue dot appears between each of the columns, indicating that they can be resized.
 1. Click one of the blue dots and drag to the left or right to adjust the size of the column.
 
-![You can adjust the spacing of columns in a Layout to create a custom Layout.](./building-content-pages/images/11.png)
+![You can adjust the spacing of columns in a Layout to create a custom Layout.](./building-content-pages/images/14.png)
 
 ```note::
    Layouts must contain the same number of columns. You can't remove a column by dragging it. Choose a Layout that has the number of columns you want, then readjust the sizing if you need to.
