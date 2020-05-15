@@ -1,6 +1,6 @@
 # Installing the Liferay Theme Generator
 
-The Theme Generator is a handy CLI tool that creates the required files and structure you need to get started with liferay DXP Theme development. It provides several sub-generators for creating Themes, extending Themes, and generating Layout Templates.
+The Theme Generator is a handy CLI tool in the Liferay JS Themes Toolkit that creates the required files and structure you need to get started with liferay DXP Theme development. It provides several sub-generators for creating Themes, extending Themes, and generating Layout Templates.
 
 ![You can use the Theme Generator to create wonderful user experiences.](./installing-the-theme-generator-reference/images/01.png)
 
@@ -39,7 +39,7 @@ The steps below show how to install the Liferay Theme Generator for your develop
 
 1. The generator uses node-sass. If you're on Windows, you must also install [node-gyp and Python](https://github.com/nodejs/node-gyp#installation).
 
-## Sub-generators
+## Generator and Sub-generator Commands
 
 The Theme Generator has several sub-generators available that you can use. The available sub-generators are listed in the table below:
 
