@@ -17,6 +17,7 @@ On the right side of the page, there's a Properties menu with these options:
 * User
 * Organization
 * Session
+* Segments (Liferay Portal CE 7.3 GA1+/Liferay DXP 7.3+)
 
   ![You use the Segment Editor to create new Segments.](./segments-editor-ui-reference/images/02.png)
 
@@ -119,3 +120,19 @@ Since Liferay DXP 7.2 SP2+, these properties are also available for Organization
 | --- | --- |
 | Hostname | Enter a virtual host name. |
 | Request Parameters | Enter the name and value of a request parameter. |
+
+## Segment Properties
+
+```note::
+  Liferay Portal CE 7.3 GA1+/Liferay DXP 7.3+
+```
+
+You can combine existing Segments with complex rules to create new audiences. Combined Segments automatically reflect any changes made to the referenced Segments.
+
+| Property | Description |
+| --- | --- |
+| Segment | Select and combine existing Segments. |
+
+```note::
+  You can't combine Segments that are already composed of other Segments to create a new Segment.
+```
